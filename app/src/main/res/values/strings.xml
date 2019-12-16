@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyWeather_v02</string>
+    <string name="enter_a_city">Enter a city</string>
+    <string name="city">Moscow</string>
+    <string name="wind_speed">Wind speed</string>
+    <string name="search">Search</string>
+    <string name="atmosphere_pressure">Atmosphere pressure</string>
+</resources>

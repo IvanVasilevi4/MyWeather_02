@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">МояПогода_0.2</string>
+    <string name="city">Москва</string>
+    <string name="enter_a_city">Введите город</string>
+    <string name="atmosphere_pressure">Атмосферное давление</string>
+    <string name="wind_speed">Скорость ветра</string>
+    <string name="search">Поиск</string>
+</resources>

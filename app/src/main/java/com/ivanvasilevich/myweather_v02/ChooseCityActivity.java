@@ -31,4 +31,4 @@ public class ChooseCityActivity extends AppCompatActivity {
             }
         });
     }
-}
+} 
